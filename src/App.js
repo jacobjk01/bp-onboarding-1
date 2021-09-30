@@ -42,7 +42,7 @@ const App = () => {
           className="search-bar"
           type="text"
           value={search}
-        ></input>
+        />
         <button className="search-button" type="submit">
           Submit
         </button>
